@@ -1,0 +1,42 @@
+
+TITANIC EDA — INSIGHT REPORT
+=======================================================
+
+DATASET OVERVIEW
+Total passengers: 891
+Survivors:        342 (38.4%)
+Did not survive:  549 (61.6%)
+
+KEY FINDINGS
+=======================================================
+
+1. GENDER WAS THE STRONGEST PREDICTOR OF SURVIVAL
+   Female survival rate: 74.2%
+   Male survival rate:   18.9%
+   The "women and children first" protocol was clearly enforced.
+   Women were 3.9x more likely to survive than men.
+
+2. PASSENGER CLASS DETERMINED ACCESS TO LIFEBOATS
+   1st Class survival: 63.0%
+   3rd Class survival: 24.2%
+   1st class passengers were 2.6x more likely to survive.
+   Upper deck proximity to lifeboats gave wealthy passengers a critical advantage.
+
+3. CHILDREN HAD ELEVATED SURVIVAL RATES
+   Child (0-12) survival rate: 58.0%
+   Overall survival rate:      38.4%
+   Children were prioritized in the evacuation — especially younger ones.
+
+4. THE WORST OUTCOME: MALE 3RD CLASS PASSENGERS
+   Female 1st class survival: 96.8%
+   Male 3rd class survival:   13.5%
+   The combination of gender and class created extreme disparity.
+   Being a male in 3rd class was the single most disadvantageous position.
+
+5. MISSING AGE DATA IS NOT RANDOM
+   Age is missing for 177 passengers (19.9% of dataset).
+   Passengers with missing age had a lower survival rate on average,
+   suggesting missing age may correlate with lower-class passengers
+   whose records were less thoroughly maintained.
+
+=======================================================
