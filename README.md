@@ -161,7 +161,7 @@ Syntecxhub_Titanic_EDA/
 
 ## 👩‍💻 Author
 
-**Safva** - Data Science Intern @ Syntecxhub  
+**Fathima Safva** - Data Science Intern @ Syntecxhub  
 🔗 [LinkedIn](https://linkedin.com/in/fathima-safva-578294315) · [GitHub](https://github.com/fsafva13-coder)
 
 ---
